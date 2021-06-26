@@ -1,1 +1,1 @@
-this is my first git project.new texted added.
+this is my first git project.
